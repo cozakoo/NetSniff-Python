@@ -1,0 +1,7 @@
+scapy>=2.5.0
+rich>=13.0.0
+colorama>=0.4.6
+streamlit>=1.40.0
+plotly>=5.24.0
+pandas>=2.2.0
+scikit-learn>=1.5.0
